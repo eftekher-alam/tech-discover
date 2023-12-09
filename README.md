@@ -2,6 +2,9 @@
 
 Discover, share, and review the latest tech products. Users can upvote, submit products, and enjoy premium features with a subscription.
 
+- **Client Site:** [Tech Discover - Client](https://tech-discover.web.app/)
+- **Server Site:** [Tech Discover - Server](https://tech-discover-server.vercel.app)
+
 ## Features
 
 - Browse and upvote tech products
