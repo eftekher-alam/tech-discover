@@ -1,0 +1,259 @@
+[
+    {
+        "_id": "1",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/1c1dfebcf4de1a06e59976f0e0e07845.jpg_750x750.jpg",
+            "https://static-01.daraz.com.bd/p/e17729d42bd5e324f5bafd510d3db0e0.jpg_750x750.jpg"
+        ],
+        "productName": "Smartphone X",
+        "postDate": "07-15-2023",
+        "upvote": 120,
+        "downvote": 15,
+        "description": "A powerful and feature-packed smartphone with the latest technology.",
+        "tags": [
+            "electronics",
+            "technology",
+            "gadgets"
+        ],
+        "ownerId": "1",
+        "ownerName": "John Doe",
+        "ownerImage": "url/to/john-doe.jpg",
+        "ownerEmail": "john.doe@example.com",
+        "externalLinks": [
+            "http://product1.com",
+            "http://reviewsite1.com"
+        ],
+        "featured": true,
+        "specifications": {
+            "Screen Size": "6.5 inches",
+            "Processor": "Octa-core",
+            "Camera": "Triple 48MP + 12MP + 8MP",
+            "Storage": "256GB",
+            "Battery": "5000mAh"
+        }
+    },
+    {
+        "_id": "2",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/ecaa1002f6b3d13db588c6524fa73069.jpg_750x750.jpg",
+            "https://static-01.daraz.com.bd/p/6ac0612e5b70e76ed58e3161bfd2fdae.jpg_750x750.jpg"
+        ],
+        "productName": "Wireless Headphones",
+        "postDate": "07-15-2023",
+        "upvote": 90,
+        "downvote": 8,
+        "description": "Immerse yourself in high-quality audio with these premium wireless headphones.",
+        "tags": [
+            "audio",
+            "headphones",
+            "wireless"
+        ],
+        "ownerId": "2",
+        "ownerName": "Jane Smith",
+        "ownerImage": "url/to/jane-smith.jpg",
+        "ownerEmail": "jane.smith@example.com",
+        "externalLinks": [
+            "http://product2.com",
+            "http://reviewsite2.com"
+        ],
+        "featured": false,
+        "specifications": {
+            "Type": "Over-Ear",
+            "Battery Life": "20 hours",
+            "Wireless Range": "30 feet",
+            "Noise Cancellation": true
+        }
+    },
+    {
+        "_id": "3",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/71a76000d6e86e7691f2e49036bbf0b5.jpg_750x750.jpg"
+        ],
+        "productName": "Fitness Tracker Pro",
+        "postDate": "07-15-2023",
+        "upvote": 75,
+        "downvote": 5,
+        "description": "Stay fit and healthy with this advanced fitness tracker that monitors your activity.",
+        "tags": [
+            "fitness",
+            "wearable",
+            "health"
+        ],
+        "ownerId": "3",
+        "ownerName": "Alex Johnson",
+        "ownerImage": "url/to/alex-johnson.jpg",
+        "ownerEmail": "alex.johnson@example.com",
+        "externalLinks": [
+            "http://product3.com",
+            "http://reviewsite3.com"
+        ],
+        "featured": true,
+        "specifications": {
+            "activityTracking": true,
+            "heartRateMonitor": true,
+            "sleepMonitoring": true,
+            "waterResistance": "IP68"
+        }
+    },
+    {
+        "_id": "4",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/6512fd21890d233ddc98b1bc9a242238.jpg_750x750.jpg",
+            "https://static-01.daraz.com.bd/p/89e28e84b1482b2fade13b9e7afe8851.jpg_750x750.jpg"
+        ],
+        "productName": "Gourmet Coffee Beans",
+        "postDate": "07-15-2023",
+        "upvote": 150,
+        "downvote": 12,
+        "description": "Experience the rich flavors of freshly roasted gourmet coffee beans.",
+        "tags": [
+            "coffee",
+            "beverages",
+            "gourmet"
+        ],
+        "ownerId": "4",
+        "ownerName": "Maria Rodriguez",
+        "ownerImage": "url/to/maria-rodriguez.jpg",
+        "ownerEmail": "maria.rodriguez@example.com",
+        "externalLinks": [
+            "http://product4.com",
+            "http://reviewsite4.com"
+        ],
+        "featured": false,
+        "specifications": {
+            "roastLevel": "Medium",
+            "origin": "Ethiopian Yirgacheffe",
+            "beanType": "Arabica",
+            "packaging": "250g"
+        }
+    },
+    {
+        "_id": "3",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/71a76000d6e86e7691f2e49036bbf0b5.jpg_750x750.jpg"
+        ],
+        "productName": "Fitness Tracker Pro",
+        "postDate": "07-15-2023",
+        "upvote": 75,
+        "downvote": 5,
+        "description": "Stay fit and healthy with this advanced fitness tracker that monitors your activity.",
+        "tags": [
+            "fitness",
+            "wearable",
+            "health"
+        ],
+        "ownerId": "3",
+        "ownerName": "Alex Johnson",
+        "ownerImage": "url/to/alex-johnson.jpg",
+        "ownerEmail": "alex.johnson@example.com",
+        "externalLinks": [
+            "http://product3.com",
+            "http://reviewsite3.com"
+        ],
+        "featured": true,
+        "specifications": {
+            "activityTracking": true,
+            "heartRateMonitor": true,
+            "sleepMonitoring": true,
+            "waterResistance": "IP68"
+        }
+    },
+    {
+        "_id": "1",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/1c1dfebcf4de1a06e59976f0e0e07845.jpg_750x750.jpg",
+            "https://static-01.daraz.com.bd/p/e17729d42bd5e324f5bafd510d3db0e0.jpg_750x750.jpg"
+        ],
+        "productName": "Smartphone X",
+        "postDate": "07-15-2023",
+        "upvote": 120,
+        "downvote": 15,
+        "description": "A powerful and feature-packed smartphone with the latest technology.",
+        "tags": [
+            "electronics",
+            "technology",
+            "gadgets"
+        ],
+        "ownerId": "1",
+        "ownerName": "John Doe",
+        "ownerImage": "url/to/john-doe.jpg",
+        "ownerEmail": "john.doe@example.com",
+        "externalLinks": [
+            "http://product1.com",
+            "http://reviewsite1.com"
+        ],
+        "featured": true,
+        "specifications": {
+            "screenSize": "6.5 inches",
+            "processor": "Octa-core",
+            "camera": "Triple 48MP + 12MP + 8MP",
+            "storage": "256GB",
+            "battery": "5000mAh"
+        }
+    },
+    {
+        "_id": "4",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/6512fd21890d233ddc98b1bc9a242238.jpg_750x750.jpg",
+            "https://static-01.daraz.com.bd/p/89e28e84b1482b2fade13b9e7afe8851.jpg_750x750.jpg"
+        ],
+        "productName": "Gourmet Coffee Beans",
+        "postDate": "07-15-2023",
+        "upvote": 150,
+        "downvote": 12,
+        "description": "Experience the rich flavors of freshly roasted gourmet coffee beans.",
+        "tags": [
+            "coffee",
+            "beverages",
+            "gourmet"
+        ],
+        "ownerId": "4",
+        "ownerName": "Maria Rodriguez",
+        "ownerImage": "url/to/maria-rodriguez.jpg",
+        "ownerEmail": "maria.rodriguez@example.com",
+        "externalLinks": [
+            "http://product4.com",
+            "http://reviewsite4.com"
+        ],
+        "featured": false,
+        "specifications": {
+            "roastLevel": "Medium",
+            "origin": "Ethiopian Yirgacheffe",
+            "beanType": "Arabica",
+            "packaging": "250g"
+        }
+    },
+    {
+        "_id": "1",
+        "productImage": [
+            "https://static-01.daraz.com.bd/p/1c1dfebcf4de1a06e59976f0e0e07845.jpg_750x750.jpg",
+            "https://static-01.daraz.com.bd/p/e17729d42bd5e324f5bafd510d3db0e0.jpg_750x750.jpg"
+        ],
+        "productName": "Smartphone X",
+        "postDate": "07-15-2023",
+        "upvote": 120,
+        "downvote": 15,
+        "description": "A powerful and feature-packed smartphone with the latest technology.",
+        "tags": [
+            "electronics",
+            "technology",
+            "gadgets"
+        ],
+        "ownerId": "1",
+        "ownerName": "John Doe",
+        "ownerImage": "url/to/john-doe.jpg",
+        "ownerEmail": "john.doe@example.com",
+        "externalLinks": [
+            "http://product1.com",
+            "http://reviewsite1.com"
+        ],
+        "featured": true,
+        "specifications": {
+            "screenSize": "6.5 inches",
+            "processor": "Octa-core",
+            "camera": "Triple 48MP + 12MP + 8MP",
+            "storage": "256GB",
+            "battery": "5000mAh"
+        }
+    }
+]

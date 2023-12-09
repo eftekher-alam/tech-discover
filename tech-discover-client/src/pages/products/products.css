@@ -1,0 +1,33 @@
+.myPagination>ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myPagination>ul>li {
+    margin: 0 5px;
+    padding: 0 2px;
+    color: transparent;
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    background-clip: text;
+    border: 2px solid transparent;
+    border-image: linear-gradient(to right, #ff6c6c, #7d5fff) 1;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.myPagination>ul>li:hover {
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    color: #fff;
+}
+
+.myPagination>ul>li.selected {
+    padding: 0 2px;
+    color: white;
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    border: 2px solid transparent;
+    border-image: linear-gradient(to right, #ff6c6c, #7d5fff) 1;
+    border-radius: 0px;
+    font-weight: bold;
+}

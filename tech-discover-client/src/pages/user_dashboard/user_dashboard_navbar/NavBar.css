@@ -1,0 +1,9 @@
+.active {
+    padding: 5px 20px;
+    color: transparent;
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    border: 2px solid transparent;
+    border-image: linear-gradient(to right, #ff6c6c, #7d5fff) 1;
+    border-radius: 0px;
+    font-weight: bold;
+}

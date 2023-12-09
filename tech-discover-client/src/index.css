@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Base styles for the button */
+.button {
+    display: inline-block;
+    padding: 5px 20px;
+    color: transparent;
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    background-clip: text;
+    border: 2px solid transparent;
+    border-image: linear-gradient(to right, #ff6c6c, #7d5fff) 1;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Hover styles for the button */
+.button:hover {
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    color: #fff;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #ff6c6c, #7d5fff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
