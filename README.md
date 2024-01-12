@@ -5,6 +5,9 @@ Discover, share, and review the latest tech products. Users can upvote, submit p
 - **Client Site:** [Tech Discover - Client](https://tech-discover.web.app/)
 - **Server Site:** [Tech Discover - Server](https://tech-discover-server.vercel.app)
 
+- admin account : admin@gmail.com
+- password : asdfJKL:
+
 ## Features
 
 - Browse and upvote tech products
